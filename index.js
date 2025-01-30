@@ -1,8 +1,8 @@
 //page URL's
-const IntroToAI = "https://github.com/Gen-Byte/2025-TAD.github.io/blob/main/IntroToAI/IntroToAi.html"
-const Ml = "https://github.com/Gen-Byte/2025-TAD.github.io/blob/main/ML/ML.html"
-const dl = "https://github.com/Gen-Byte/2025-TAD.github.io/blob/main/DL/DL.html"
-const extra = "https://github.com/Gen-Byte/2025-TAD.github.io/tree/main/EXTRA/extra.html"
+const IntroToAI = "https://gen-byte.github.io/2025-TAD.github.io/IntroToAI/IntroToAi.html"
+const Ml = "https://gen-byte.github.io/2025-TAD.github.io/ML/ml.html"
+const dl = "https://gen-byte.github.io/2025-TAD.github.io/DL/DL.html"
+const extra = "https://gen-byte.github.io/2025-TAD.github.io/EXTRA/extra.html"
 //Get Box ID's
 var introBox = document.getElementById("Intro");
 var mlBox = document.getElementById("ML");
