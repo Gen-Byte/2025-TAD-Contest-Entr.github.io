@@ -1,6 +1,6 @@
 //page URL's
 const IntroToAI = "https://gen-byte.github.io/2025-TAD.github.io/IntroToAI/IntroToAi.html"
-const Ml = "https://gen-byte.github.io/2025-TAD.github.io/ML/ml.html"
+const Ml = "https://gen-byte.github.io/2025-TAD.github.io/ML/ML.html"
 const dl = "https://gen-byte.github.io/2025-TAD.github.io/DL/DL.html"
 const extra = "https://gen-byte.github.io/2025-TAD.github.io/EXTRA/extra.html"
 //Get Box ID's
