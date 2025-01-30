@@ -1,8 +1,8 @@
 //page URL's
-const IntroToAI = "http://127.0.0.1:5500/IntroToAI/IntroToAi.html"
-const Ml = "http://127.0.0.1:5500/ML/ML.html"
-const dl = "http://127.0.0.1:5500/DL/DL.html"
-const extra = "http://127.0.0.1:5500/EXTRA/extra.html"
+const IntroToAI = "https://github.com/Gen-Byte/2025-TAD.github.io/blob/main/IntroToAI/IntroToAi.html"
+const Ml = "https://github.com/Gen-Byte/2025-TAD.github.io/blob/main/ML/ML.html"
+const dl = "https://github.com/Gen-Byte/2025-TAD.github.io/blob/main/DL/DL.html"
+const extra = "https://github.com/Gen-Byte/2025-TAD.github.io/tree/main/EXTRA/extra.html"
 //Get Box ID's
 var introBox = document.getElementById("Intro");
 var mlBox = document.getElementById("ML");
