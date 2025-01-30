@@ -1,6 +1,6 @@
 var back = document.getElementById('Back');
 
-const mainPage = "https://gen-byte.github.io/2025-TAD.github.io/main.html"
+const mainPage = "https://gen-byte.github.io/2025-TAD.github.io/index.html"
 
 /*
 Return To Main Page Button
