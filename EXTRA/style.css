@@ -1,0 +1,53 @@
+body {
+    height: 170%;
+    margin: 0;
+
+    background: linear-gradient(to bottom, #ae18db 35%, #db1883 67%);
+    overflow-y: scroll;
+}
+
+
+#Back {
+    position: relative;
+    background-color: #f05800;
+    width: 130px;
+    height: 45px;
+    left: 10px;
+    top: 10px;
+    border-radius: 15px;
+    text-align: center;
+    border: 2px solid black
+}
+
+#BackText {
+    position: relative;
+    top: -20px;
+}
+
+#example1 {
+    position: absolute;
+    background-color: #f05800;
+    width: 400px;
+    height: 200px;
+    margin-top: 150px;
+    margin-left: 100px;
+    
+    border-radius: 25px;
+    border-style: dashed;
+    box-shadow: 10px 5px 0px 2px black;
+    font-size: small;
+}
+
+#example2 {
+    position: absolute;
+    background-color: #f05800;
+    width: 400px;
+    height: 200px;
+    margin-top: 150px;
+    margin-left: 800px;
+    
+    border-radius: 25px;
+    border-style: dashed;
+    box-shadow: 10px 5px 0px 2px black;
+    font-size: small;
+}

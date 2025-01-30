@@ -1,0 +1,235 @@
+body {
+    height: 250%;
+    margin: 0;
+
+    background: linear-gradient(to bottom, #ae18db 25%, #db1883 35%);
+    overflow-y: scroll;
+}
+
+
+#Back {
+    position: relative;
+    background-color: #f05800;
+    width: 130px;
+    height: 45px;
+    left: 10px;
+    top: 10px;
+    border-radius: 15px;
+    text-align: center;
+    border: 2px solid black
+}
+
+#BackText {
+    position: relative;
+    top: -20px;
+}
+
+#IntroToAiPageTitle {
+    width: 590px;
+    height: 250px;
+    margin-left: 400px;
+    margin-top: 110px;
+    font-size: 27px;
+    
+    font-weight: 900;
+}
+
+#defineAi {
+    position: absolute;
+    background-color: black;
+    width: 580px;
+    height: 150px;
+    margin-left: 385px;
+    margin-top: -120px;
+    border-radius: 25px;
+    box-sizing: content-box;
+    color: wheat;
+}
+
+
+#Model {
+    width: 560px;
+    height: 300px;
+    margin-left: 380px;
+    margin-top: 150px;
+}
+
+
+/* 
+Content
+*/
+
+#Title {
+    background-color: #f05800;
+    width: 120px;
+    height: 120px;
+    margin-left: 220px;
+    border-radius: 50px;
+    border: 2px solid black;
+    text-align: center;
+    vertical-align: 30px;
+    z-index: 2;
+}
+
+#ModelTitle {
+    position: relative;
+    top: 25px;
+    color: wheat;
+    font-size: 25px;
+    font-style: italic;
+    font-weight: 500;
+}
+
+#Box { 
+    position: absolute;
+    background-color: #f05800;
+    width: 320px;
+    height: 320px;
+    margin-top: -50px;
+    margin-left: 120px;
+    z-index: -1;
+    border-radius: 25px;
+    border-style: dashed;
+    box-shadow: 10px 5px 0px 2px black;
+    font-size: small;
+}
+
+/*
+----------------------------------------
+*/
+
+
+#Algorithm {
+    width: 560px;
+    height: 300px;
+    margin-left: 160px;
+    margin-top: 150px;
+}
+
+
+/* 
+Content
+*/
+
+#Title2 {
+    
+    background-color: #f05800;
+    width: 120px;
+    height: 120px;
+    margin-left: 220px;
+    border-radius: 50px;
+    border: 2px solid black;
+    text-align: center;
+    vertical-align: 30px;
+    z-index: 2;
+}
+
+#algorithmTitle {
+    position: relative;
+    top: 10px;
+    color: wheat;
+    font-size: 25px;
+    font-style: italic;
+    font-weight: 500;
+}
+
+#Box2 { 
+    position: absolute;
+    background-color: #f05800;
+    width: 320px;
+    height: 320px;
+    margin-top: -50px;
+    margin-left: 120px;
+    z-index: -1;
+    border-radius: 25px;
+    border-style: dashed;
+    box-shadow: 10px 5px 0px 2px black;
+    font-size: small;
+    text-align: center;
+}
+
+
+/*
+-----------------------------------------------
+*/
+
+
+#splitting {
+    width: 560px;
+    height: 300px;
+    margin-left: 600px;
+    margin-top: -300px;
+}
+
+
+/* 
+Content
+*/
+
+
+#Title3 {
+    background-color: #f05800;
+    width: 120px;
+    height: 120px;
+    margin-left: 230px;
+    border-radius: 50px;
+    border: 2px solid black;
+    text-align: center;
+    vertical-align: 30px;
+    z-index: 2;
+}
+
+#splittingTitle {
+    position: relative;
+    top: 10px;
+    color: wheat;
+    font-size: 25px;
+    font-style: italic;
+    font-weight: 500;
+    
+}
+
+#Box3 { 
+    position: absolute;
+    background-color: #f05800;
+    width: 320px;
+    height: 320px;
+    margin-top: -50px;
+    margin-left: 120px;
+    z-index: -1;
+    border-radius: 25px;
+    border-style: dashed;
+    box-shadow: 10px 5px 0px 2px black;
+    font-size: small;
+    text-align: center;
+}
+
+#extra {
+    position: absolute;
+    margin-left: -50px;
+    margin-top: -100px;
+}
+
+#extra {
+    position: absolute;
+    background-color: #f05800;
+    width: 310px;
+    height: 200px;
+    margin-top: -150px;
+    margin-left: 120px;
+    z-index: -1;
+    border-radius: 25px;
+    border-style: dashed;
+    box-shadow: 10px 5px 0px 2px black;
+    
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
