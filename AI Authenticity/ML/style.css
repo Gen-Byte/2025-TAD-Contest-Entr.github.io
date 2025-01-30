@@ -1,0 +1,124 @@
+body {
+    height: 170%;
+    margin: 0;
+
+    background: linear-gradient(to bottom, #ae18db 35%, #db1883 67%);
+    overflow-y: scroll;
+}
+
+
+#Back {
+    position: relative;
+    background-color: #f05800;
+    width: 130px;
+    height: 45px;
+    left: 10px;
+    top: 10px;
+    border-radius: 15px;
+    text-align: center;
+    border: 2px solid black
+}
+
+#BackText {
+    position: relative;
+    top: -20px;
+}
+
+#MlTitle {
+    width: 590px;
+    height: 250px;
+    margin-left: 400px;
+    margin-top: 110px;
+    font-size: 27px;
+    
+    font-weight: 900;
+}
+
+#defineMl {
+    position: absolute;
+    background-color: black;
+    width: 580px;
+    height: 150px;
+    margin-left: 385px;
+    margin-top: -120px;
+    border-radius: 25px;
+    box-sizing: content-box;
+    color: wheat;
+}
+
+#overview {
+    margin: auto;
+    width: 50%
+}
+
+
+#model {
+    position: absolute;
+    background-color: #f05800;
+    width: 250px;
+    height: 300px;
+    margin-top: 100px;
+    margin-left: -140px;
+    
+    border-radius: 25px;
+    border-style: dashed;
+    box-shadow: 10px 5px 0px 2px black;
+    font-size: small;
+}
+
+#algorithm {
+    position: absolute;
+    background-color: #f05800;
+    width: 250px;
+    height: 300px;
+    margin-top: 100px;
+    margin-left: 210px;
+    
+    border-radius: 25px;
+    border-style: dashed;
+    box-shadow: 10px 5px 0px 2px black;
+    font-size: small;
+}
+
+#training {
+    position: absolute;
+    background-color: #f05800;
+    width: 250px;
+    height: 300px;
+    margin-top: -200px;
+    margin-left: 350px;
+    
+    border-radius: 25px;
+    border-style: dashed;
+    box-shadow: 10px 5px 0px 2px black;
+    font-size: small;
+}
+
+#example {
+    position: absolute;
+    background-color: #f05800;
+    width: 400px;
+    height: 200px;
+    margin-top: 450px;
+    margin-left: -200px;
+    
+    border-radius: 25px;
+    border-style: dashed;
+    box-shadow: 10px 5px 0px 2px black;
+    font-size: small;
+}
+
+
+#extra {
+    position: absolute;
+    background-color: #f05800;
+    width: 430px;
+    height: 220px;
+    margin-top: 450px;
+    margin-left: 400px;
+    
+    border-radius: 25px;
+    border-style: dashed;
+    box-shadow: 10px 5px 0px 2px black;
+    font-size: x-small;
+}
